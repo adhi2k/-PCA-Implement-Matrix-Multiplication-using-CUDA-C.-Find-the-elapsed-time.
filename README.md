@@ -1,6 +1,6 @@
 # PCA-EXP-5-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time.
-## NAME:Balaji N
-## REG NO: 2305002002
+# NAME: Adhithya K
+# REG NO: 2305002001
 
 ## Aim:
 To implement Matrix Multiplication using CUDA C on the GPU and measure the elapsed execution time.
